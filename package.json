@@ -1,0 +1,13 @@
+{
+  "name": "showtrack-community-api",
+  "version": "1.0.0",
+  "description": "Community backend for Static TV - comments, reactions, ratings",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
